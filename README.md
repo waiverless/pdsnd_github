@@ -1,3 +1,7 @@
+#editer : Ali Tassiou Abass
+# From : Niamey/Niger
+# email : aliabass15@yahoo.frequent
+
 ### Date created
 05/08/2019
 

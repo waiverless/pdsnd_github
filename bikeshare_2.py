@@ -1,3 +1,7 @@
+# editer : Ali Tassiou Abass
+# From : Niamey/Niger
+# email : aliabass15@yahoo.frequent
+
 import time
 import pandas as pd
 import numpy as np
