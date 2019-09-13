@@ -129,7 +129,7 @@ def time_stats(df):
 
     print("\nThis took %s seconds." % (time.time() - start_time))
     print('-'*40)
-
+#union function
 def union(List1,List2):
     List = []
     for word in List1:
@@ -138,6 +138,7 @@ def union(List1,List2):
         List.append(word)
     return List
 
+#most_frequent function
 def most_frequent(List):
 	word_counter = {}
 	for word in List:
