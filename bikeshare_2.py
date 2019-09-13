@@ -1,3 +1,6 @@
+# log 13/09/2019
+# Ali Tassiou Abass
+
 import time
 import pandas as pd
 import numpy as np
