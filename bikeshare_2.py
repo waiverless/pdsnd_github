@@ -1,3 +1,7 @@
+# original version
+# user Ali Tassiou Abass
+# mail aliabass15@yahoo.fr
+
 import time
 import pandas as pd
 import numpy as np

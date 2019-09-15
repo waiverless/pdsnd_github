@@ -1,15 +1,20 @@
+# user Ali Tassiou Abass
+# mail aliabass15@yahoo.fr
+
 ### Date created
-Include the date you created this project and README file.
+15/09/2019
 
 ### Project Title
-Replace the Project Title
+Bike share
 
 ### Description
-Describe what your project is about and what it does
-
+a program to manage sharing bike in USA, Whashington and Chicago
 ### Files used
-Include the files used
+chicago.csv
+new_york_city.csv
+washington
+bikeshare_2.py
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
-
+http://www.udacity.com
+http://www.techleaders.eg/aal/
