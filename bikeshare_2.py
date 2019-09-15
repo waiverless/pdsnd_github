@@ -1,6 +1,7 @@
-# log 13/09/2019
+# brach refactoring
+# date 13/09/2019
 # Ali Tassiou Abass
-
+#project bikeshare
 import time
 import pandas as pd
 import numpy as np
